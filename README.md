@@ -1,7 +1,8 @@
 ## Hi, I’m Ricky Chen 👋
 
-Founder @Infinirc
-Co-maintainer @vllm-project/vllm-metal · @llmmanorg/llmman
+Founder @Infinirc  
+Co-maintainer @vllm-project/vllm-metal  
+Maintainer @llmmanorg/llmman
 
 ### Projects & Links
 - 🌐 Infinirc: https://infinirc.com  
